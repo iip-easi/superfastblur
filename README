@@ -1,4 +1,0 @@
-Very fast implementation of Gaussian Blur algorithm in c#. 
-
-Based on an article of Ivan Kuckir:
-http://blog.ivank.net/fastest-gaussian-blur.html
